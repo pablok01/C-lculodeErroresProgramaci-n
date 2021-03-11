@@ -1,5 +1,19 @@
 package main;
+/*INSTITUTO TECNOLÓGICO SUPERIOR DE VALLADOLID
+MATERIA:
+MÉTODOS NUMÉRICOS
 
+DOCENTE.
+M.M JORGE MANUEL POOL CEN
+
+KINIL CHI PEDRO PABLO (19070036)
+
+ACTIVIDAD:
+programa de errores
+    
+UNIDAD I: 
+INTRODUCCIÓN A LOS MÉTODOS NUMÉRICOS
+*/
 public class Errores {
 
     private double valorReal, ValorAproximado;
